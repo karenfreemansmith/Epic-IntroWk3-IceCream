@@ -15,6 +15,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
+* Click on page header to see list of ice creams
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
